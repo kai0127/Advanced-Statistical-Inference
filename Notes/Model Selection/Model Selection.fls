@@ -1,7 +1,7 @@
-PWD /Users/linda/Desktop/LaTeX/Notes/Reinforcement Learning
+PWD /Users/linda/Desktop/LaTeX/Notes/Model Selection
 INPUT /usr/local/texlive/2023/texmf-var/web2c/luahbtex/lualatex.fmt
-INPUT /Users/linda/Desktop/LaTeX/Notes/Reinforcement Learning/Reinforcement Learning.tex
-OUTPUT Reinforcement Learning.log
+INPUT /Users/linda/Desktop/LaTeX/Notes/Model Selection/Model Selection.tex
+OUTPUT Model Selection.log
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/lualatexquotejobname.lua
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/ltluatex.lua
 INPUT /usr/local/texlive/2023/texmf-dist/tex/luatex/luaotfload/luaotfload-main.lua
@@ -528,9 +528,9 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/doublestroke/dsfont.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-INPUT ./Reinforcement Learning.aux
-INPUT ./Reinforcement Learning.aux
-OUTPUT Reinforcement Learning.aux
+INPUT ./Model Selection.aux
+INPUT ./Model Selection.aux
+OUTPUT Model Selection.aux
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT /usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -549,63 +549,16 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape-nometadat
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/graphics/lscape.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/graphics/lscape.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/graphics/lscape.sty
-INPUT ./Reinforcement Learning.out
-INPUT ./Reinforcement Learning.out
-INPUT ./Reinforcement Learning.out
-INPUT ./Reinforcement Learning.out
-OUTPUT Reinforcement Learning.pdf
-OUTPUT Reinforcement Learning.out
-INPUT ./Reinforcement Learning.toc
-INPUT ./Reinforcement Learning.toc
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmmib10.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib8.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib6.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbsy10.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy8.tfm
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm
-OUTPUT Reinforcement Learning.toc
-INPUT ./images/2023_12_18_21a3a2e71c8a014fc272g-05.jpg
-INPUT ./images/2023_12_18_21a3a2e71c8a014fc272g-05.jpg
-INPUT ./images/2023_12_18_21a3a2e71c8a014fc272g-05.jpg
-INPUT /usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT ./Model Selection.out
+INPUT ./Model Selection.out
+INPUT ./Model Selection.out
+INPUT ./Model Selection.out
+OUTPUT Model Selection.pdf
+OUTPUT Model Selection.out
+INPUT ./Model Selection.toc
+INPUT ./Model Selection.toc
+OUTPUT Model Selection.toc
 INPUT /Users/linda/Library/texlive/2023/texmf-var/luatex-cache/generic/fonts/otl/haranoajigothic-medium.luc
 INPUT /Users/linda/Library/texlive/2023/texmf-var/luatexja/extra_haranoajigothic-medium.luc
-INPUT ./Reinforcement Learning.aux
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
-INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb
+INPUT /usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
+INPUT ./Model Selection.aux

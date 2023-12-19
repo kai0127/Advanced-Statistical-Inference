@@ -1,8 +1,8 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.9.15)  18 DEC 2023 22:04
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.9.15)  18 DEC 2023 22:09
  restricted system commands enabled.
  file:line:error style messages enabled.
-**"/Users/linda/Desktop/LaTeX/Notes/Reinforcement Learning/Reinforcement Learning.tex"
-("/Users/linda/Desktop/LaTeX/Notes/Reinforcement Learning/Reinforcement Learning.tex"
+**"/Users/linda/Desktop/LaTeX/Notes/Monte Carlo Method/Monte Carlo Methods.tex"
+("/Users/linda/Desktop/LaTeX/Notes/Monte Carlo Method/Monte Carlo Methods.tex"
 LaTeX2e <2022-11-01> patch level 1
 Lua module: luaotfload 2022-10-03 3.23 Lua based OpenType font support
 Lua module: lualibs 2022-10-04 2.75 ConTeXt Lua standard libraries.
@@ -1154,8 +1154,8 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@erf=\skip73
 \f@nch@O@olf=\skip74
 \f@nch@O@orf=\skip75
-) ("./Reinforcement Learning.aux")
-\openout1 = Reinforcement Learning.aux
+) ("./Monte Carlo Methods.aux")
+\openout1 = Monte Carlo Methods.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 290.
 LaTeX Font Info:    ... okay on input line 290.
@@ -1217,10 +1217,10 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
 Package hyperref Info: Link coloring ON on input line 290.
- ("./Reinforcement Learning.out") ("./Reinforcement Learning.out")
+ ("./Monte Carlo Methods.out") ("./Monte Carlo Methods.out")
 \@outlinefile=\write5
 
-\openout5 = Reinforcement Learning.out
+\openout5 = Monte Carlo Methods.out
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -1269,97 +1269,49 @@ LaTeX Font Info:    Font shape `JT3/BabelStoneHan(0)/b/n' will be
 (Font)              scaled to size 11.23196pt on input line 300.
 LaTeX Font Info:    Font shape `JY3/BabelStoneHan(0)/b/n' will be
 (Font)              scaled to size 11.23196pt on input line 300.
-("./Reinforcement Learning.toc"
+("./Monte Carlo Methods.toc"
 LaTeX Font Info:    Font shape `JT3/BabelStoneHan(0)/b/n' will be
 (Font)              scaled to size 8.54097pt on input line 1.
 LaTeX Font Info:    Font shape `JY3/BabelStoneHan(0)/b/n' will be
 (Font)              scaled to size 8.54097pt on input line 1.
-LaTeX Font Info:    Trying loading font information for U+msa on input line 2.
- (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying loading font information for U+msb on input line 2.
- (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Font shape `JY3/BabelStoneHan(0)/m/n' will be
-(Font)              scaled to size 6.23999pt on input line 2.
-LaTeX Font Info:    Font shape `JY3/BabelStoneHan(0)/m/n' will be
-(Font)              scaled to size 4.68pt on input line 2.
-LaTeX Font Info:    Font shape `JY3/BabelStoneHan(0)/b/n' will be
-(Font)              scaled to size 6.23999pt on input line 2.
-LaTeX Font Info:    Font shape `JY3/BabelStoneHan(0)/b/n' will be
-(Font)              scaled to size 4.68pt on input line 2.
 )
 \tf@toc=\write6
 
-\openout6 = Reinforcement Learning.toc
-LaTeX Font Info:    Font shape `JT3/BabelStoneHan(0)/m/n' will be
-(Font)              scaled to size 9.35999pt on input line 310.
-LaTeX Font Info:    Font shape `JY3/BabelStoneHan(0)/m/n' will be
-(Font)              scaled to size 9.35999pt on input line 310.
-LaTeX Font Info:    Font shape `JT3/BabelStoneHan(0)/b/n' will be
-(Font)              scaled to size 9.35999pt on input line 310.
-LaTeX Font Info:    Font shape `JY3/BabelStoneHan(0)/b/n' will be
-(Font)              scaled to size 9.35999pt on input line 310.
-<images/2023_12_18_21a3a2e71c8a014fc272g-05.jpg, id=82, 707.64375pt x 257.96375pt>
-File: images/2023_12_18_21a3a2e71c8a014fc272g-05.jpg Graphic file (type jpg)
-<use images/2023_12_18_21a3a2e71c8a014fc272g-05.jpg>
-Package luatex.def Info: images/2023_12_18_21a3a2e71c8a014fc272g-05.jpg  used on input line 328.
-(luatex.def)             Requested size: 215.9586pt x 78.72409pt.
-LaTeX Font Info:    Font shape `JT3/BabelStoneHan(0)/m/n' will be
-(Font)              scaled to size 6.23999pt on input line 329.
-LaTeX Font Info:    Font shape `JT3/BabelStoneHan(0)/b/n' will be
-(Font)              scaled to size 6.23999pt on input line 329.
-LaTeX Font Info:    Font shape `JT3/BabelStoneHan(0)/b/n' will be
-(Font)              scaled to size 7.79999pt on input line 357.
-LaTeX Font Info:    Font shape `JY3/BabelStoneHan(0)/b/n' will be
-(Font)              scaled to size 7.79999pt on input line 357.
- [1{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-
-<./images/2023_12_18_21a3a2e71c8a014fc272g-05.jpg>]
-LaTeX Font Info:    Font shape `JT3/BabelStoneHan(0)/m/n' will be
-(Font)              scaled to size 4.68pt on input line 359.
- [2] [3] [4]
-LaTeX Font Info:    Kanji font shape `JY3/BabelStoneHan(0)/m/it' undefined
-(Font)              No change on input line 667.
-LaTeX Font Info:    Kanji font shape `JY3/BabelStoneHan(0)/m/it' undefined
-(Font)              No change on input line 687.
- [5] [6] [7]
-LaTeX Font Info:    Kanji font shape `JY3/BabelStoneHan(0)/m/it' undefined
-(Font)              No change on input line 1030.
- [8] [9] [10]
-LaTeX Font Info:    Kanji font shape `JY3/BabelStoneHan(0)/m/it' undefined
-(Font)              No change on input line 1394.
- [11]
+\openout6 = Monte Carlo Methods.toc
 LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 10.53629pt on input line 1576.
+(Font)              scaled to size 10.53629pt on input line 312.
 LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 10.53629pt on input line 1576.
+(Font)              scaled to size 10.53629pt on input line 312.
 (load cache: extra_haranoajigothic-medium.luc)
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1576.
+(Font)              No change on input line 312.
 LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 1582.
- [12] ("./Reinforcement Learning.aux")
-Package rerunfilecheck Info: File `"Reinforcement Learning".out' has not changed.
+(Font)              No change on input line 318.
+LaTeX Font Info:    Font shape `JT3/BabelStoneHan(0)/b/n' will be
+(Font)              scaled to size 7.79999pt on input line 351.
+LaTeX Font Info:    Font shape `JY3/BabelStoneHan(0)/b/n' will be
+(Font)              scaled to size 7.79999pt on input line 351.
+ [1{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+] ("./Monte Carlo Methods.aux")
+Package rerunfilecheck Info: File `"Monte Carlo Methods".out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
 )
 
 Here is how much of LuaTeX's memory you used:
- 33937 strings out of 478285
- 382245,1977958 words of node,token memory allocated
- 3362 words of node memory still in use:
-   10 hlist, 2 vlist, 5 rule, 2 glue, 4 kern, 1 glyph, 1245 attribute, 62 glue_spec, 124 attribute_list, 2 write, 12 user_defined nodes
-   avail lists: 1:43,2:99676,3:472,4:758,5:1326,6:127,7:15606,8:63,9:923,10:16,11:1144
- 52640 multiletter control sequences out of 65536+600000
- 83 fonts using 193871255 bytes
- 106i,13n,128p,1854b,692s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</Users/linda/Library/Fonts/Vollkorn-Italic.otf></Users/linda/Library/Fonts/Vollkorn-Regular.otf></Users/linda/Library/Fonts/Vollkorn-Bold.otf></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on Reinforcement Learning.pdf (12 pages, 249816 bytes).
+ 33752 strings out of 478285
+ 125244,1977958 words of node,token memory allocated
+ 1034 words of node memory still in use:
+   10 hlist, 2 vlist, 5 rule, 2 glue, 4 kern, 1 glyph, 178 attribute, 62 glue_spec, 27 attribute_list, 2 write, 12 user_defined nodes
+   avail lists: 1:18,2:9308,3:159,4:257,5:274,6:43,7:1903,9:276,10:1,11:120
+ 52542 multiletter control sequences out of 65536+600000
+ 45 fonts using 126820343 bytes
+ 106i,12n,128p,1847b,479s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</Users/linda/Library/Fonts/Vollkorn-Italic.otf></Users/linda/Library/Fonts/Vollkorn-Regular.otf></Users/linda/Library/Fonts/Vollkorn-Bold.otf>
+Output written on Monte Carlo Methods.pdf (1 page, 24420 bytes).
 
-PDF statistics: 258 PDF objects out of 1000 (max. 8388607)
- 218 compressed objects within 3 object streams
- 68 named destinations out of 1000 (max. 131072)
- 136 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 48 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
+ 7 named destinations out of 1000 (max. 131072)
+ 24 words of extra memory for PDF output out of 10000 (max. 100000000)
 
