@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.9.15)  18 DEC 2023 22:08
+This is LuaHBTeX, Version 1.16.0 (TeX Live 2023)  (format=lualatex 2023.9.15)  18 DEC 2023 23:37
  restricted system commands enabled.
  file:line:error style messages enabled.
 **"/Users/linda/Desktop/LaTeX/Notes/Model Selection/Model Selection.tex"
@@ -1278,40 +1278,66 @@ LaTeX Font Info:    Font shape `JY3/BabelStoneHan(0)/b/n' will be
 \tf@toc=\write6
 
 \openout6 = Model Selection.toc
-LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
-(Font)              scaled to size 10.53629pt on input line 312.
-LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
-(Font)              scaled to size 10.53629pt on input line 312.
-(load cache: extra_haranoajigothic-medium.luc)
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 312.
-LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
-(Font)              No change on input line 318.
-LaTeX Font Info:    Font shape `JT3/BabelStoneHan(0)/b/n' will be
-(Font)              scaled to size 7.79999pt on input line 351.
+LaTeX Font Info:    Trying loading font information for U+msa on input line 322.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying loading font information for U+msb on input line 322.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `JY3/BabelStoneHan(0)/m/n' will be
+(Font)              scaled to size 6.23999pt on input line 322.
+LaTeX Font Info:    Font shape `JY3/BabelStoneHan(0)/m/n' will be
+(Font)              scaled to size 4.68pt on input line 322.
 LaTeX Font Info:    Font shape `JY3/BabelStoneHan(0)/b/n' will be
-(Font)              scaled to size 7.79999pt on input line 351.
+(Font)              scaled to size 6.23999pt on input line 322.
+LaTeX Font Info:    Font shape `JY3/BabelStoneHan(0)/b/n' will be
+(Font)              scaled to size 4.68pt on input line 322.
+LaTeX Font Info:    Font shape `JT3/BabelStoneHan(0)/m/n' will be
+(Font)              scaled to size 6.23999pt on input line 349.
+LaTeX Font Info:    Font shape `JT3/BabelStoneHan(0)/m/n' will be
+(Font)              scaled to size 4.68pt on input line 349.
+LaTeX Font Info:    Font shape `JT3/BabelStoneHan(0)/b/n' will be
+(Font)              scaled to size 7.79999pt on input line 392.
+LaTeX Font Info:    Font shape `JY3/BabelStoneHan(0)/b/n' will be
+(Font)              scaled to size 7.79999pt on input line 392.
  [1{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-] ("./Model Selection.aux")
+] [2] [3]
+LaTeX Font Info:    Kanji font shape `JY3/BabelStoneHan(0)/m/it' undefined
+(Font)              No change on input line 631.
+ [4]
+LaTeX Font Info:    Font shape `JT3/gt/m/n' will be
+(Font)              scaled to size 10.53629pt on input line 796.
+LaTeX Font Info:    Font shape `JY3/gt/m/n' will be
+(Font)              scaled to size 10.53629pt on input line 796.
+(load cache: extra_haranoajigothic-medium.luc)
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 796.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 802.
+LaTeX Font Info:    Kanji font shape `JY3/gt/m/it' undefined
+(Font)              No change on input line 807.
+ [5] ("./Model Selection.aux")
 Package rerunfilecheck Info: File `"Model Selection".out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
 )
 
 Here is how much of LuaTeX's memory you used:
- 33752 strings out of 478285
- 125244,1977958 words of node,token memory allocated
- 1034 words of node memory still in use:
-   10 hlist, 2 vlist, 5 rule, 2 glue, 4 kern, 1 glyph, 178 attribute, 62 glue_spec, 27 attribute_list, 2 write, 12 user_defined nodes
-   avail lists: 1:18,2:9272,3:159,4:257,5:268,6:43,7:1894,9:276,10:1,11:123
- 52542 multiletter control sequences out of 65536+600000
- 45 fonts using 126820343 bytes
- 106i,12n,128p,1840b,479s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</Users/linda/Library/Fonts/Vollkorn-Italic.otf></Users/linda/Library/Fonts/Vollkorn-Regular.otf></Users/linda/Library/Fonts/Vollkorn-Bold.otf>
-Output written on Model Selection.pdf (1 page, 24323 bytes).
+ 33831 strings out of 478285
+ 244635,1977958 words of node,token memory allocated
+ 2570 words of node memory still in use:
+   10 hlist, 2 vlist, 5 rule, 2 glue, 4 kern, 1 glyph, 882 attribute, 62 glue_spec, 91 attribute_list, 2 write, 12 user_defined nodes
+   avail lists: 1:32,2:51318,3:300,4:430,5:1067,6:107,7:10899,8:47,9:888,10:7,11:764
+ 52597 multiletter control sequences out of 65536+600000
+ 80 fonts using 172169471 bytes
+ 106i,13n,128p,1840b,479s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</Users/linda/Library/Fonts/Vollkorn-Italic.otf></Users/linda/Library/Fonts/Vollkorn-Regular.otf></Users/linda/Library/Fonts/Vollkorn-Bold.otf></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on Model Selection.pdf (5 pages, 157128 bytes).
 
-PDF statistics: 48 PDF objects out of 1000 (max. 8388607)
- 35 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 131072)
- 24 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 131 PDF objects out of 1000 (max. 8388607)
+ 102 compressed objects within 2 object streams
+ 17 named destinations out of 1000 (max. 131072)
+ 56 words of extra memory for PDF output out of 10000 (max. 100000000)
 
