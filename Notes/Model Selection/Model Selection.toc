@@ -1,5 +1,8 @@
 \contentsline {section}{\numberline {1}Two levels of inference}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}The first level of inference}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}The second level of inference}{2}{subsection.1.2}%
 \contentsline {section}{\numberline {2}Gaussian approximation}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Bayesian Occam's razor effect}{3}{subsection.2.1}%
 \contentsline {section}{\numberline {3}Derivation of the BIC}{4}{section.3}%
 \contentsline {section}{\numberline {4}Minimum Description Length}{4}{section.4}%
 \contentsline {section}{\numberline {5}Model Averaging}{5}{section.5}%
